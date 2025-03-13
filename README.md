@@ -1,16 +1,23 @@
-# basic_wadget
+# 𝕬𝖈𝖙𝖎𝖛𝖎𝖙𝖞 1 - 𝕭𝖆𝖘𝖎𝖈 𝖂𝖎𝖉𝖌𝖊𝖙
 
-A new Flutter project.
 
-## Getting Started
+<h1 align="left">𝙸 𝚌0𝚍𝙴 𝚠𝙸𝚝𝙷</h1>
 
-This project is a starting point for a Flutter application.
+###
 
-A few resources to get you started if this is your first Flutter project:
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+</div>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+###
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="left">𝚁𝚎𝚜𝚞𝚕𝚝:</p>
+
+###
+
+
+![png](https://github.com/user-attachments/assets/05c08310-f85e-4574-b7b2-018413c6327d)
